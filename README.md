@@ -9,12 +9,12 @@ _Esto es un texto en cursiva_ / **_Texto en cursiva y encima en negrita_** /
 
 ![perfil-git-cabecera](https://github.com/ksanmiguel1903/ksanmiguel1903/assets/160039536/4963bfa4-a8f3-4c5b-bad0-4bd0499fd054)
 ===
-#  _Esto es un texto en cursiva_ Aquí está la ~~Karen~~ Karensita tuneando su repo para que quede..... 👌
+# Aquí está la ~~Karen~~ Karensita tuneando su repo para que quede..... 👌
 ---
 
-###_**Ranking del flappy card**_
-| Nombre | Puntuación |
-| -------------: | -------------: |
-| PacOcio  | 26 |
-| PunkyPako  | 10 |
-| Karensita | 9 |
+### _**Ranking del flappy card**_
+| Fecha | Nombre | Puntuación |
+| ----- | :------------- | -------------: |  
+| 21/02 | PacOcio  | 26 |
+| 21/02 | PunkyPako  | 10 |
+| 21/02 | Karensita | 9 |
