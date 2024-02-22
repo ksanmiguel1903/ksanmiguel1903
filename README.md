@@ -12,9 +12,14 @@ _Esto es un texto en cursiva_ / **_Texto en cursiva y encima en negrita_** /
 # Aquí está la ~~Karen~~ Karensita tuneando su repo para que quede..... 👌
 ---
 
+  
 ### _**Ranking del flappy card**_
 | Fecha | Nombre | Puntuación |
 | ----- | :------------- | -------------: |  
-| 21/02 | PacOcio  | 26 |
-| 21/02 | PunkyPako  | 10 |
-| 21/02 | Karensita | 9 |
+| _21/02_ | PakOcio  | **26** |
+| _21/02_ | PunkyPako  | **10** |
+| _21/02_ | Karensita | **9** |
+<details> 
+<summary>+</summary>
+  PakOcio ganó porque se sabe el truco del recorte de la tarjeta.
+</details>
