@@ -6,4 +6,5 @@
 
 -->
 ### Aquí está la Karensita 👌
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![IMG_5973](https://github.com/ksanmiguel1903/ksanmiguel1903/assets/160039536/bb299846-2c6f-4b58-ae16-b68ebba07387)
