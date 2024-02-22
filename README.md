@@ -6,5 +6,4 @@
 
 -->
 ### Aquí está la Karensita 👌
-
-![IMG_5973](https://github.com/ksanmiguel1903/ksanmiguel1903/assets/160039536/bb299846-2c6f-4b58-ae16-b68ebba07387)
+![perfil-git-cabecera](https://github.com/ksanmiguel1903/ksanmiguel1903/assets/160039536/4963bfa4-a8f3-4c5b-bad0-4bd0499fd054)
